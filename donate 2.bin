@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+header {
+    background: #2a9d8f;
+    padding: 20px;
+    color: white;
+}
+.logo {
+    max-width: 150px;
+}
+.donation-section, .images-section {
+    margin: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+.image-gallery img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+}
+footer {
+    background: #264653;
+    color: white;
+    padding: 10px;
+}
